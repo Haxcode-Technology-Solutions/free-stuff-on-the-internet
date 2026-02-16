@@ -10,3 +10,11 @@ dist
 .eslintcache
 docs/.vitepress/.temp
 result
+
+# Frontend build
+frontend/dist
+frontend/node_modules
+
+# Backend
+backend/.env
+backend/vendor
